@@ -80,7 +80,8 @@ ul li h2 {
     font-size: 140%;
     font-weight: bold;
     padding-bottom: 10px;
-    inline-size: 217px;
+    inline-size: 180px;
+    overflow: hidden;
 
 }
 
